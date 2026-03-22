@@ -117,5 +117,5 @@ Payload with SP2 monthly value:
 Based on **ZENNER LoRa Radio Packet Definitions v1.35** (2025-11-14), authored by ZENNER International GmbH & Co. KG.
 
 ## License
-
-MIT
+ 
+Apache License 2.0 — see [LICENSE](LICENSE) for details.
